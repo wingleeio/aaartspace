@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@iconscout/react-unicons": "^0.0.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^3.0.0",
     "moment": "^2.24.0",
